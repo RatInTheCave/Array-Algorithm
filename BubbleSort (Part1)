@@ -14,7 +14,7 @@ public class Main {
     return runArray1;
 }
 
-//Custpm array
+//Custom array
    public static int[] userArr(int lengthOfUserArray) {
    int[] runArray2 =  new int[lengthOfUserArray];
        Scanner UA = new Scanner(System.in);
